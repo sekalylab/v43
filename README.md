@@ -5,10 +5,10 @@ R code to reproduce figures in [Vaccari M. et al., 2018](https://www.nature.com/
 
 ### Microarray analysis
 code:  
--·preprocessing:·[[MD]](code/20160105_V43.preprocessing.code.md)  
+- preprocessing: [[MD]](code/20160105_V43.preprocessing.code.md)  
   
 input:  
--·non-normalized·matrix:·[[CSV]](input/GA_illumina_expression.v43.matrix_non_norm.csv)  
+- non-normalized·matrix: [[CSV]](input/GA_illumina_expression.v43.matrix_non_norm.csv)  
 - arrays/samples annotation: [[CSV]](input/GA_illumina_expression.v43.metadata.csv)  
 - features annotation: [[TSV]](input/Illumina_HumanHT12_V4.rheMac3.chip)  
   
