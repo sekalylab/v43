@@ -1,6 +1,13 @@
 # v43: source code
 R code to reproduce figures in [Vaccari M. et al., 2018](https://www.nature.com/articles/s41591-018-0025-7)
 
+## List of figures:
+[Fig. S9e](#fig-s9e)  
+
+## Fig. S9e
+![Fig. S9e](figure/VaccariM_2018_NatMed.FigS9e.png)  
+Fig. S9e: [R code [MD]](code/20200418_V43.FigS9e.code.md), [Input file [CSV]](input/20200418_V43.FigS9e.input.csv)  
+  
 ## Supplemental material:
 
 ### Microarray analysis
